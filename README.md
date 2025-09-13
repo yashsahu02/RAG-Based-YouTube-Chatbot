@@ -63,19 +63,22 @@ git clone [https://github.com/yashsahu02/RAG-Based_YouTube_Chatbot.git](https://
 
 3. Install the dependencies:<br>
 
-Bash
+```bash
 
 pip install -r requirements.txt
 
+``` 
 <hr>
 
 ## 6. Project Structure
+
 📂 RAG_Based_YouTube_Chatbot
  ├── 📄 app.py
  ├── 📄 .env
  ├── 📄 .gitignore
  ├── 📄 requirements.txt
  └── 📄 README.md
+
 <hr>
 
 ## 7. Usage
@@ -118,10 +121,11 @@ Screenshots
 
 <br>
 
-Yash Sahu
+## Yash Sahu
 <a href="https://www.linkedin.com/in/yashsahu02" target="_blank">LinkedIn</a>
 <br>
 <a href="https://www.kaggle.com/yashsahu02" target="_blank">Kaggle</a>
+
 
 
 
