@@ -84,14 +84,15 @@ pip install -r requirements.txt
 
 ## 7. Usage
 Run the application:
-Bash
 
+```bash
 streamlit run app.py
+```
 Here app.py is name of python file.
 
 Use the web interface to:
 Enter a YouTube video URL.
-
+<br>
 Wait for the transcript to load.
 
 Ask questions about the video's content in the chat interface.
@@ -126,6 +127,7 @@ Screenshots
 <a href="https://www.linkedin.com/in/yashsahu02" target="_blank">LinkedIn</a>
 <br>
 <a href="https://www.kaggle.com/yashsahu02" target="_blank">Kaggle</a>
+
 
 
 
