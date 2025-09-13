@@ -58,13 +58,74 @@ The project does not use a fixed dataset. Instead, it dynamically loads video tr
 1. Clone the repository:<br>
 ```bash
 git clone [https://github.com/yashsahu02/RAG-Based_YouTube_Chatbot.git](https://github.com/yashsahu02/RAG-Based_YouTube_Chatbot.git)
-Navigate to the project directory:<br>
 
-Install the dependencies:<br>
+2. Navigate to the project directory:<br>
+
+3. Install the dependencies:<br>
 
 Bash
 
 pip install -r requirements.txt
+
 <hr>
+
+## 6. Project Structure
+📂 RAG_Based_YouTube_Chatbot
+ ├── 📄 app.py
+ ├── 📄 .env
+ ├── 📄 .gitignore
+ ├── 📄 requirements.txt
+ └── 📄 README.md
+<hr>
+
+## 7. Usage
+Run the application:
+Bash
+
+streamlit run app.py
+Here app.py is name of python file.
+
+Use the web interface to:
+Enter a YouTube video URL.
+
+Wait for the transcript to load.
+
+Ask questions about the video's content in the chat interface.
+
+<hr>
+
+## 8. Results
+The RAG architecture ensures all generated responses are grounded in the video's content, providing accurate and reliable information.
+
+By utilizing Google Gemini's gemini-2.0-flash model, the chatbot offers near-instantaneous, low-latency responses.
+
+This project successfully demonstrates an effective method for providing context-aware Q&A from unstructured video data, effectively mitigating model hallucinations.
+
+<hr>
+
+## 9. Demo
+Watch the full project demo:
+
+<hr>
+
+Screenshots
+
+<hr>
+
+<hr>
+
+<hr>
+
+<br>
+
+Yash Sahu
+<a href="https://www.linkedin.com/in/yashsahu02" target="_blank">LinkedIn</a>
+<br>
+<a href="https://www.kaggle.com/yashsahu02" target="_blank">Kaggle</a>
+
+
+
+
+
 
 
