@@ -71,17 +71,14 @@ pip install -r requirements.txt
 <hr>
 
 ## 6. Project Structure
-
+```
 📂 RAG_Based_YouTube_Chatbot
  ├── 📄 app.py
- |
  ├── 📄 .env
- |
  ├── 📄 .gitignore
- |
  ├── 📄 requirements.txt
- |
  └── 📄 README.md
+```
 
 <hr>
 
