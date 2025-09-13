@@ -2,7 +2,7 @@
 A web application that enables users to interact with and ask questions about a YouTube video's content, powered by a Retrieval-Augmented Generation (RAG) architecture.
 
 
-Try it out : <a href="[Your Live URL Here]" target="_blank">Live</a>
+<!-- Try it out : <a href="[Your Live URL Here]" target="_blank">Live</a> -->
 
 
 <hr>
@@ -111,6 +111,8 @@ This project successfully demonstrates an effective method for providing context
 ## 9. Demo
 Watch the full project demo:
 
+
+
 <hr>
 
 Screenshots
@@ -127,6 +129,7 @@ Screenshots
 <a href="https://www.linkedin.com/in/yashsahu02" target="_blank">LinkedIn</a>
 <br>
 <a href="https://www.kaggle.com/yashsahu02" target="_blank">Kaggle</a>
+
 
 
 
