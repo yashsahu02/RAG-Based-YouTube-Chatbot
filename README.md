@@ -58,7 +58,7 @@ The project does not use a fixed dataset. Instead, it dynamically loads video tr
 1. Clone the repository:<br>
 ```bash
 git clone [https://github.com/yashsahu02/RAG-Based_YouTube_Chatbot.git](https://github.com/yashsahu02/RAG-Based_YouTube_Chatbot.git)
-
+```
 2. Navigate to the project directory:<br>
 
 3. Install the dependencies:<br>
@@ -74,9 +74,13 @@ pip install -r requirements.txt
 
 📂 RAG_Based_YouTube_Chatbot
  ├── 📄 app.py
+ |
  ├── 📄 .env
+ |
  ├── 📄 .gitignore
+ |
  ├── 📄 requirements.txt
+ |
  └── 📄 README.md
 
 <hr>
@@ -125,6 +129,7 @@ Screenshots
 <a href="https://www.linkedin.com/in/yashsahu02" target="_blank">LinkedIn</a>
 <br>
 <a href="https://www.kaggle.com/yashsahu02" target="_blank">Kaggle</a>
+
 
 
 
